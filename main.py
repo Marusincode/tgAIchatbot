@@ -5,7 +5,7 @@ from langchain_ollama import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate
 
 #bot credentials
-TOKEN: Final = "8035633752:AAE4Vbh0NBt4XZUVcbx3Dlx2YbIEb5VP_UM"
+TOKEN: Final = "***"
 botusername: Final = "@maryslamabot"
 
 #commands
